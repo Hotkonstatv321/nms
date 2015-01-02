@@ -1,2 +1,1 @@
-nms
-===
+NMS - News Management System
